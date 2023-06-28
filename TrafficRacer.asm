@@ -2,8 +2,6 @@
 # CSCB58 Summer 2022 Project 
 # University of Toronto, Scarborough 
 # 
-# Student Name: Siyi Wang, Student Number: 1005984302, UTorID: wangsi93
-# 
 # Bitmap Display Configuration: 
 # - Unit width in pixels: 8 (update this as needed) 
 # - Unit height in pixels: 8 (update this as needed) 
@@ -12,13 +10,13 @@
 # - Base Address for Display: 0x10008000 
 # 
 # Basic features that were implemented successfully 
-# - Basic feature a/b/c (choose the ones that apply) 
+# - Basic feature a/b/c 
 #	a) Display the number of remaining lives
 #	b) Different cars move in different speed
 #	c) Display a GAME OVER screen when there are no more remaining lives, restart the game by pressing 'q'
 # 
 # Additional features that were implemented successfully 
-# - Additional feature a/b/c (choose the ones that apply) 
+# - Additional feature a/b/c 
 #	a) Add two types of pickups: extra lives, shield mode
 #	b) Display live score
 #	c) Add a more challenging level when the first level completed
@@ -27,11 +25,7 @@
 # - Insert YouTube/MyMedia/other URL here and make sure the video is accessible
 # https://drive.google.com/file/d/1i2BBs4dAxCDxjeGwRuyQgP-luk7MMUSC/view?usp=sharing 
 # 
-# Any additional information that the TA needs to know: 
-# - Write here, if any 
-# Hi, my video might be a little long because I talk slow, you can play it double speed and it will be clear :)
-# Please email me if the video link does not work :)
-# bias.wang@mail.utoronto.ca
+# marriewang221@gmail.com
 #  
 ###################################################################### 
 .data 
